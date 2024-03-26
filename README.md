@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, my name  is Jose! 👋
 
-<!--
-**Josenchama/Josenchama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I work as a Facilities Maintenance Manager in Student Accommodation.
+- 🌱 I’m currently learning Data Science (Fundamentals), and I am also  Coursing Python language.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: josenchama@hotmail.es 
+-   Education ..
+· Electrical Installation: Level 3 Diploma
+· CG 2365 Level 2 Diploma in
+Electrical Installation 
+· A-Level - Science and Technology
+modality – I.E.S. Pasqual Calbó I Caldés, 
+· GCSE – Science modality – I.E.S.
